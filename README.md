@@ -33,3 +33,7 @@ em 15% e imprima o resultado (Com BigDecimal)
 ###Exercicio 5:
 - Faça um programa que olhe todos os itens de uma lista e diga quantos deles
 são pares.
+
+###Exercicio 6:
+- Faça um programa que peça para o usuário digitar uma palavra e imprima
+  cada letra em uma linha.
