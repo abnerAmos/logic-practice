@@ -26,3 +26,6 @@ em 15% e imprima o resultado (Com BigDecimal)
   suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e
   2 pontos são apenas suspeitos, necessitando outras investigações. Valores
   iguais ou abaixo de 1 são liberados.
+
+###Exercicio 3:
+- Faça um programa que imprima a tabuada do numero inserido até 10, usando loop
