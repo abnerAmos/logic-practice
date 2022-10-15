@@ -27,5 +27,9 @@ em 15% e imprima o resultado (Com BigDecimal)
   2 pontos são apenas suspeitos, necessitando outras investigações. Valores
   iguais ou abaixo de 1 são liberados.
 
-###Exercicio 3:
-- Faça um programa que imprima a tabuada do numero inserido até 10, usando loop
+###Exercicio 4:
+- Faça um programa que imprima a tabuada do numero inserido até 10, usando loop.
+
+###Exercicio 5:
+- Faça um programa que olhe todos os itens de uma lista e diga quantos deles
+são pares.
