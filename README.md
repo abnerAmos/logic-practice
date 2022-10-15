@@ -13,3 +13,16 @@ em 15% e imprima o resultado (Com BigDecimal)
    <br>O programa deve imprimir uma mensagem de erro para cada informação
    inválida.
 
+###Exercicio 3:
+- Faça um programa para verificar quem é o assassino de um crime.
+   Para descobrir o assassino, a polícia faz um pequeno questionário com 5
+   perguntas onde a resposta só pode ser sim ou não:<br>
+  <br>a. Mora perto da vítima?
+  <br>b. Já trabalhou com a vítima?
+  <br>c. Telefonou para a vítima?
+  <br>d. Esteve no local do crime?
+  <br>e. Devia para a vítima?<br>
+  <br>Cada resposta sim dá um ponto para o suspeito. A polícia considera que os
+  suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e
+  2 pontos são apenas suspeitos, necessitando outras investigações. Valores
+  iguais ou abaixo de 1 são liberados.
