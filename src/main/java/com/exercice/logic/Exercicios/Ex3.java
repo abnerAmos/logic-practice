@@ -43,5 +43,7 @@ public class Ex3 {
             System.out.println("Suspeito");
         if (count <= 1)
             System.out.println("Liberado");
+
+        // Faz a contagem de "Sim" para dar o resultado
     }
 }

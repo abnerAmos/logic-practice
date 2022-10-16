@@ -12,7 +12,7 @@ public class Ex6 {
         for (int i = 0; i < input.length(); i++) {
             Character phrase2 = input.charAt(i);
             System.out.println(phrase2);
-
         }
+        // imprime a frase informada com cada letra em uma linha
     }
 }

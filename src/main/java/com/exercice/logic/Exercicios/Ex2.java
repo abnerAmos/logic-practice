@@ -28,6 +28,6 @@ public class Ex2 {
             System.out.println("Genero Inválido");
         else System.out.println(gender);
 
-
+        // Retorna uma mensagem para cada condição
     }
 }

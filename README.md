@@ -37,3 +37,7 @@ são pares.
 ###Exercicio 6:
 - Faça um programa que peça para o usuário digitar uma palavra e imprima
   cada letra em uma linha.
+
+###Exercicio 7:
+- Faça uma função que recebe duas listas de numeros e retorna a soma 
+item a item dessas listas.

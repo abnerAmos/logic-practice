@@ -15,5 +15,6 @@ public class Ex4 {
             int multiplier = count * input;
             System.out.println(multiplier);
         }
+        // Faz a multiplicação do numero informado 10 vezes (Tabuada)
     }
 }
