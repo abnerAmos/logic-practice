@@ -40,9 +40,15 @@ são pares.
 
 ###Exercicio 7:
 - Faça uma função que recebe duas listas de numeros e retorna a soma 
-item a item dessas listas.
+  item a item dessas listas.
 
 ###Exercicio 8:
 - Crie um dicionário cujas chaves são os meses do ano e os valores são a
   duração (em dias) de cada mês.
 - Imprima as chaves seguidas dos seus valores
+
+###Exercicio 9:
+- Informe um numero e verifique se é primo ou não.
+
+###Exercicio 10:
+- Informe um numero e mostre a sequencia Fibonacci até ele.

@@ -15,6 +15,6 @@ public class Ex5 {
             if (stringForInt % 2 == 0)
             System.out.println(stringForInt);
         }
-        // imprime os numeros inseridos em formato de lista
+        // imprime os numeros pares inseridos em formato de lista
     }
 }
