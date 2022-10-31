@@ -54,7 +54,12 @@ são pares.
 - Informe um numero e mostre a sequencia Fibonacci até ele.
 
 ###Exercicio 11:
-- Crie uma lista de numeros Desordenados e Ordene de forma Crescente e Decrescente.
+- Crie uma lista de numeros Desordenados
+  e Ordene de forma Crescente e Decrescente.
 
 ###Exercicio 12:
-- Crie uma lista de letras/palavras Desordenados e Ordene de forma Crescente e Decrescente.
+- Crie uma lista de letras/palavras Desordenados
+  e Ordene de forma Crescente e Decrescente.
+
+###Exercicio 12:
+- Informe uma palavra e verifique se é Palindromo.
