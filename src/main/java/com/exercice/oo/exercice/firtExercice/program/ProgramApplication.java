@@ -24,11 +24,8 @@ public class ProgramApplication {
         y.b = input.nextDouble();
         y.c = input.nextDouble();
 
-        double averageX = (x.a + x.b + x.c) / 2.0;
-        double areaX = Math.sqrt(averageX * (averageX - x.a) * (averageX - x.b) * (averageX - x.c));
-
-        double averageY = (y.a + y.b + y.c) / 2.0;
-        double areaY = Math.sqrt(averageY * (averageY - y.a) * (averageY - y.b) * (averageY - y.c));
+        double areaX = x.area();
+        double areaY = y.area();
 
         String result = areaX > areaY ? "Area X é maior" : "Area Y é maior";
         System.out.println(areaX);
