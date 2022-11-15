@@ -1,6 +1,4 @@
-package com.exercice.logic.Exercicios;
-
-import java.util.Scanner;
+package com.exercice.logic.exercice;
 
 public class Ex11 {
 

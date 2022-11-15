@@ -1,4 +1,4 @@
-package com.exercice.logic.Exercicios;
+package com.exercice.logic.exercice;
 
 public class Ex7 {
 

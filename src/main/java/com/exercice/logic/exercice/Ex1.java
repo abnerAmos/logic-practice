@@ -1,4 +1,4 @@
-package com.exercice.logic.Exercicios;
+package com.exercice.logic.exercice;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
