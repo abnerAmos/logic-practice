@@ -1,4 +1,4 @@
-package com.exercice.oo.exerciceTriangle.secondExercice.entity;
+package com.exercice.oo.exercice.exerciceProduct.entity;
 
 public class Product {
 

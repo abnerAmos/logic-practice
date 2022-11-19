@@ -1,6 +1,6 @@
-package com.exercice.oo.exerciceTriangle.secondExercice.application;
+package com.exercice.oo.exercice.exerciceProduct.application;
 
-import com.exercice.oo.exerciceTriangle.secondExercice.entity.Product;
+import com.exercice.oo.exercice.exerciceProduct.entity.Product;
 
 import java.util.Scanner;
 
