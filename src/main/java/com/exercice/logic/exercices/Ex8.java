@@ -1,4 +1,4 @@
-package com.exercice.logic.exercice;
+package com.exercice.logic.exercices;
 
 import java.util.HashMap;
 import java.util.Map;

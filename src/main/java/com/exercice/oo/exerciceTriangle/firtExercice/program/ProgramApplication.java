@@ -1,6 +1,6 @@
-package com.exercice.oo.exercice.firtExercice.program;
+package com.exercice.oo.exerciceTriangle.firtExercice.program;
 
-import com.exercice.oo.exercice.firtExercice.entity.Triangle;
+import com.exercice.oo.exerciceTriangle.firtExercice.entity.Triangle;
 
 import java.util.Scanner;
 
