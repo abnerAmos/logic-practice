@@ -2,7 +2,7 @@ package com.exercice.oo.exercice.exerciceProduct.entity;
 
 public class Product {
 
-    private String product;
+    String product;
     private double price;
     private int quantity;
 
