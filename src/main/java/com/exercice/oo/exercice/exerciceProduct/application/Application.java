@@ -21,13 +21,13 @@ public class Application {
         System.out.println("Produto em Estoque: " + product);
         System.out.println();
 
-        System.out.print("Adicione a quantidade de " + product.product + " em Estoque: ");
+        System.out.print("Adicione a quantidade de " + product.getProduct() + " em Estoque: ");
         quantity = input.nextInt();
         product.addStock(quantity);
         System.out.println("Total de produtos em estoque: " + product);
         System.out.println();
 
-        System.out.print("Remova a quantidade de " + product.product + " em Estoque: ");
+        System.out.print("Remova a quantidade de " + product.getProduct() + " em Estoque: ");
         quantity = input.nextInt();
         product.removeStock(quantity);
         System.out.println("Total de produtos em estoque: " + product);
