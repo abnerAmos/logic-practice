@@ -61,5 +61,8 @@ são pares.
 - Crie uma lista de letras/palavras Desordenados
   e Ordene de forma Crescente e Decrescente.
 
-###Exercicio 12:
+###Exercicio 13:
 - Informe uma palavra e verifique se é Palindromo.
+
+###Exercicio 14:
+- Crie um Vetor(Array), e calcule a média de altura entre X pessoas.
