@@ -88,4 +88,8 @@ tela todos os números pares, e também a quantidade de números pares.
 ###Exercicio 19:
 Faça um programa que leia N números inteiros e armazene-os em um vetor. Em seguida, mostrar na tela
 o maior número do vetor (supor não haver empates). Mostrar também a posição em que foi digitado. 
- 
+
+###Exercicio 20:
+Faça um programa para ler dois vetores A e B, contendo N elementos cada. Em seguida, gere um
+terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima
+o vetor C gerado.
