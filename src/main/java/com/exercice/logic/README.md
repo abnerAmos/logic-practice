@@ -64,6 +64,10 @@ são pares.
 ###Exercicio 13:
 - Informe uma palavra e verifique se é Palindromo.
 
+##################################################
+EXERCICIOS ARRAY(VETOR)
+##################################################
+
 ###Exercicio 14:
 - Crie um Vetor(Array), e calcule a média de altura entre X pessoas.
 
@@ -121,3 +125,11 @@ Fazer um programa para ler um conjunto de N nomes de alunos, bem como as notas q
 no 1º e 2º semestres. Cada uma dessas informações deve ser armazenada em um vetor. Depois, imprimir
 os nomes dos alunos aprovados, considerando aprovados aqueles cuja média das notas seja maior ou
 igual a 6.0 (seis).
+
+###Exercicio 26:
+Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Fazer um programa
+que calcule e escreva a maior e a menor altura do grupo, a média de altura das mulheres, e o número
+de homens.
+
+##################################################
+##################################################
