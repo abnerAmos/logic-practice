@@ -110,3 +110,8 @@ mensagem e abortar a operação. Ao final, mostrar a listagem atualizada dos fun
 Fazer um programa para ler um vetor de N números inteiros. Em seguida, mostrar na tela a média
 aritmética somente dos números pares lidos, com uma casa decimal. Se nenhum número par for
 digitado, mostrar a mensagem "NENHUM NUMERO PAR".
+
+###Exercicio 24:
+Fazer um programa para ler um conjunto de nomes de pessoas e suas respectivas idades. Os nomes
+devem ser armazenados em um vetor, e as idades em um outro vetor. Depois, mostrar na tela o nome
+da pessoa mais velha.
