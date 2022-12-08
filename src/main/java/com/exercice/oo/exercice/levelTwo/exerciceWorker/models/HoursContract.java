@@ -5,13 +5,13 @@ import java.util.Date;
 public class HoursContract {
 
     private Date date;
-    private double valuePorHour;
-    private Integer hour;
+    private double valuePerHour;
+    private Integer hours;
 
-    public HoursContract(Date date, double valuePorHour, Integer hour) {
+    public HoursContract(Date date, double valuePerHour, Integer hours) {
         this.date = date;
-        this.valuePorHour = valuePorHour;
-        this.hour = hour;
+        this.valuePerHour = valuePerHour;
+        this.hours = hours;
     }
 
     public Date getDate() {
@@ -23,18 +23,22 @@ public class HoursContract {
     }
 
     public double getValuePorHour() {
-        return valuePorHour;
+        return valuePerHour;
     }
 
     public void setValuePorHour(double valuePorHour) {
-        this.valuePorHour = valuePorHour;
+        this.valuePerHour = valuePorHour;
     }
 
     public Integer getHour() {
-        return hour;
+        return hours;
     }
 
     public void setHour(Integer hour) {
-        this.hour = hour;
+        this.hours = hour;
+    }
+
+    public double totalValue() {
+        return valuePerHour * hours;
     }
 }

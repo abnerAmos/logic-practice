@@ -45,3 +45,7 @@ estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha
 que seja escolhido um quarto vago. Ao final, seu programa deve imprimir
 um relatório de todas ocupações do pensionato, por ordem de quarto,
 conforme exemplo.
+
+###Exercicio Trabalhador e Contratos:
+Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar
+do usuário um mês e mostrar qual foi o salário do funcionário nesse mês
